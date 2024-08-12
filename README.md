@@ -38,3 +38,4 @@ Here's a step-by-step description for your GitHub repository on named entity rec
 Link to the dataset used for the project 
 https://www.kaggle.com/datasets/gpreda/bbc-news
 
+(C) Copyright imman_tech 2024
